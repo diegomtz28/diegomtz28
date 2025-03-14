@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Cloud Infrastructure (Microsoft Azure)</b>
-- [Configuring On-premises Active Directory within Azure VMs](https://github.com/diegomtz28/Configuring-Activer-Directory-within-Azure)- <b>osTicket (Help Desk Ticketing System)</b>
+- [Configuring On-premises Active Directory within Azure VMs](https://github.com/diegomtz28/Configuring-Activer-Directory-within-Azure)
   - [osTicket: Prerequisites and Installation](https://github.com/diegomtz28/os-ticket-prereqs.git)
   - [osTicket: Post-Installation Configuration](https://github.com/diegomtz28/Post-OS-Ticket-config/blob/main/README.md)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/diegomtz28/Ticket-Lifestyle-Examples/blob/main/README.md)
