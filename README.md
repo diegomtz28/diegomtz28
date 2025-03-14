@@ -2,13 +2,12 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Cloud Infrastructure (Microsoft Azure)</b>
-- [Configuring On-premises Active Directory within Azure VMs](https://github.com/diegomtz28/Configuring-Activer-Directory-within-Azure)
+- <b>Ticketing System (OS Ticket) </b>
   - [osTicket: Prerequisites and Installation](https://github.com/diegomtz28/os-ticket-prereqs.git)
   - [osTicket: Post-Installation Configuration](https://github.com/diegomtz28/Post-OS-Ticket-config/blob/main/README.md)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/diegomtz28/Ticket-Lifestyle-Examples/blob/main/README.md)
 - <b>Microsoft Azure</b>
-
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/diegomtz28/Configuring-Activer-Directory-within-Azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/diegomtz28/Network-Security-Groups-and-Inspecting-traffic-between-Azure-Virtual-Machines/blob/main/README.md)
 
 <h2>🤳Connect with me:</h2>
