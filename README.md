@@ -37,6 +37,19 @@ apextech.local
 
 ---
 
+## 🏅 Certifications
+
+<a href="https://www.credly.com/badges/7cdb9f58-cbe1-4278-9399-4b7b20ee7a4d/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/image.png" alt="CompTIA A+" width="120"/>
+</a>
+
+| Badge | Cert | Issued By | Status |
+|-------|------|-----------|--------|
+| ☝️ | CompTIA A+ | CompTIA | ✅ Earned |
+| 🔜 | CompTIA Network+ | CompTIA | 📚 In Progress |
+
+---
+
 ## 📂 Repos
 
 | Repo | What's Inside |
