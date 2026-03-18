@@ -39,14 +39,13 @@ apextech.local
 
 ## 🏅 Certifications
 
-<a href="https://www.credly.com/badges/7cdb9f58-cbe1-4278-9399-4b7b20ee7a4d/public_url" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/image.png" alt="CompTIA A+" width="120"/>
-</a>
+[![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B%20Certified-C8202F?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/7cdb9f58-cbe1-4278-9399-4b7b20ee7a4d/public_url)
+[![Network+ In Progress](https://img.shields.io/badge/CompTIA-Network%2B%20In%20Progress-gray?style=for-the-badge&logo=comptia&logoColor=white)](#)
 
-| Badge | Cert | Issued By | Status |
-|-------|------|-----------|--------|
-| ☝️ | CompTIA A+ | CompTIA | ✅ Earned |
-| 🔜 | CompTIA Network+ | CompTIA | 📚 In Progress |
+| Cert | Issued By | Status |
+|------|-----------|--------|
+| CompTIA A+ | CompTIA | ✅ Earned |
+| CompTIA Network+ | CompTIA | 📚 In Progress |
 
 ---
 
